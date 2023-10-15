@@ -1,6 +1,6 @@
-# aa-random-files
+# aa-code-challenges
 
 
-## This will contain random files in the appAcademy Open program I'm going through
+### This repo contains code challenges in the appAcademy Open program I'm going through
 
-`problems.js` From the Intermediate Java Script section with coding challenges to solve.
+spiral-matrix.js was a tough one!
